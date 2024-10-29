@@ -1,0 +1,134 @@
+[
+    {
+        "id": 10,
+        "name": "AB de Villiers",
+        "rating": 9.6,
+        "nationality": "South Africa",
+        "type": "Batsman",
+        "price": 1600000,
+        "image": "https://i.ibb.co.com/QcqV9kh/abd.webp",
+        "batting_style": "Right-Hand Bat",
+        "bowling_style": "Right-Arm Medium"
+    },
+    {
+        "id": 11,
+        "name": "Rashid Khan",
+        "rating": 9.5,
+        "nationality": "Afghanistan",
+        "type": "Bowler",
+        "price": 1500000,
+        "image": "https://i.ibb.co.com/HnzBMBC/rashid.jpg",
+        "batting_style": "Right-Hand Bat",
+        "bowling_style": "Right-Arm Legbreak"
+    },
+    {
+        "id": 12,
+        "name": "Mitchell Starc",
+        "rating": 9.7,
+        "nationality": "Australia",
+        "type": "Bowler",
+        "price": 1900000,
+        "image": "https://i.ibb.co.com/S66t2bW/starc.jpg",
+        "batting_style": "Left-Hand Bat",
+        "bowling_style": "Left-Arm Fast"
+    },
+    {
+        "id": 1,
+        "name": "Virat Kohli",
+        "rating": 9.8,
+        "nationality": "India",
+        "type": "Batsman",
+        "price": 1500000,
+        "image": "https://i.ibb.co.com/6PFghdr/viratkoli.jpg",
+        "batting_style": "Right-Hand Bat",
+        "bowling_style": "Right-Arm Medium"
+    },
+    {
+        "id": 2,
+        "name": "Joe Root",
+        "rating": 9.5,
+        "nationality": "England",
+        "type": "Batsman",
+        "price": 1300000,
+        "image": "https://i.ibb.co.com/xfj5zXV/joeroot.jpg",
+        "batting_style": "Right-Hand Bat",
+        "bowling_style": "Right-Arm Offbreak"
+    },
+    {
+        "id": 3,
+        "name": "Ben Stokes",
+        "rating": 9.7,
+        "nationality": "England",
+        "type": "All-Rounder",
+        "price": 1800000,
+        "image": "https://i.ibb.co.com/F4RLP6q/benstrokes.jpg",
+        "batting_style": "Left-Hand Bat",
+        "bowling_style": "Right-Arm Fast-Medium"
+    },
+    {
+        "id": 4,
+        "name": "Kane Williamson",
+        "rating": 9.6,
+        "nationality": "New Zealand",
+        "type": "Batsman",
+        "price": 1400000,
+        "image": "https://i.ibb.co.com/XZQwfrk/OIP.jpg",
+        "batting_style": "Right-Hand Bat",
+        "bowling_style": "Right-Arm Offbreak"
+    },
+    {
+        "id": 5,
+        "name": "Hardik Pandya",
+        "rating": 9.4,
+        "nationality": "India",
+        "type": "All-Rounder",
+        "price": 1700000,
+        "image": "https://i.ibb.co.com/wwqP4YM/Hardik-Pandya-1200x685.png",
+        "batting_style": "Right-Hand Bat",
+        "bowling_style": "Right-Arm Fast-Medium"
+    },
+    {
+        "id": 6,
+        "name": "Rohit Sharma",
+        "rating": 9.3,
+        "nationality": "India",
+        "type": "Batsman",
+        "price": 1500000,
+        "image": "https://i.ibb.co.com/tZf8YQr/Rohit-Sharma.webp",
+        "batting_style": "Right-Hand Bat",
+        "bowling_style": "Right-Arm Offbreak"
+    },
+    {
+        "id": 7,
+        "name": "Steve Smith",
+        "rating": 9.2,
+        "nationality": "Australia",
+        "type": "Batsman",
+        "price": 1300000,
+        "image": "https://i.ibb.co.com/wW8j5wN/Steve-Smith.webp",
+        "batting_style": "Right-Hand Bat",
+        "bowling_style": "Right-Arm Legbreak"
+    },
+    {
+        "id": 8,
+        "name": "Marnus Labuschagne",
+        "rating": 9.1,
+        "nationality": "Australia",
+        "type": "Batsman",
+        "price": 1100000,
+        "image": "https://i.ibb.co.com/bmz4nC8/Marnus-Labuschagne.webp",
+        "batting_style": "Right-Hand Bat",
+        "bowling_style": "Right-Arm Legbreak"
+    },
+    {
+        "id": 9,
+        "name": "Shaheen Afridi",
+        "rating": 9.4,
+        "nationality": "Pakistan",
+        "type": "Bowler",
+        "price": 2000000,
+        "image": "https://i.ibb.co.com/M7GwCPr/R.jpg",
+        "batting_style": "Left-Hand Bat",
+        "bowling_style": "Left-Arm Fast"
+    }
+]
